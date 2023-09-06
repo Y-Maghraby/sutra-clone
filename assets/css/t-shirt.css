@@ -1,0 +1,91 @@
+
+
+.show {
+    display:  block !important;
+}
+/* ------------------------------------------------------------- */
+
+.header_panner{
+    text-align: center;
+    padding: 1.5rem;
+    color: #fff;
+}
+/* --------------------------------------------------- */
+.main_content{
+display: flex;
+padding: 3rem 2rem;
+}
+
+.t_items{
+    width: 75%;
+    display: flex;
+    padding-right: .5rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+}
+
+.t_items .item{
+    width:21%;
+    padding: 1rem;
+    
+}
+.t_items .item img{
+    width: 100%;
+}
+/* ---------------------------------------------------- */
+
+.list_items i{
+    font-size: .7rem;
+    padding: 0 .5rem;
+}
+
+
+
+.best_items .item{
+    display: flex;
+    gap: 1rem;
+    padding: 1rem 0;
+}
+
+.best_items .item .img{
+    width: 7rem;
+}
+.best_items .item .img img{
+    width: 100%;
+}
+/* -------------------------------------------------------- */
+.question{
+    width: 90%;
+    margin: auto;
+}
+.question .item p {
+display: none;
+}
+
+.question .item h4{
+    background-color: #f6f6f8;
+    padding: 1rem;
+    position: relative;
+}
+.question .item h4 i{
+    position: absolute;
+    left: 1rem;
+    background-color: #000;
+    color: #fff;
+    padding: .4rem;
+}
+.show{
+    display: block !important;
+}
+
+
+
+
+
+
+
+
+
+
+
