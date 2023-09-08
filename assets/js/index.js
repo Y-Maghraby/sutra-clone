@@ -108,7 +108,10 @@ iconSpan.style.display = "inline"
 iconSpan.innerHTML = `${userName.value}`
 
 })
-
+userIcon.addEventListener("click" , function(){
+  displayForm()
+  form.style.transform = "translate(-20%,-30%)"
+})
 
 
 

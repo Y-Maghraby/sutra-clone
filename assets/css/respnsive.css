@@ -112,8 +112,19 @@
 }
 }
 
+.shoes {
+    width: 100% !important;
+}
 
+.shoes .slide{
+    
+    padding: 0 !important;
+    width: 70% !important;
 
+}
+.shirts .left{
+    left: 0 !important;
+}
 
 
 /* ----------------------------------------------------------------------------- */
@@ -207,10 +218,22 @@
 .shirts .left{
     left: 2rem !important;
 }
+.shoes {
+    width: 100% !important;
+}
 
 .shoes .slide{
-    /* display: block !important; */
+    
+    padding: 0 !important;
+    width: 90% !important;
 }
+.shoes .right{
+    right: 0 !important;
+}
+.shoes .left{
+    left: 0 !important;
+}
+
 /* ----------------------------------------------------- */
 
 /* footer ---  */

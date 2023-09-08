@@ -421,8 +421,9 @@ text-align: center;
     margin: auto;
 }
 .shoes .slide{
-    /* display: flex;
-    gap: 1rem; */
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
     padding: 2rem 0;
 
 
@@ -436,7 +437,7 @@ text-align: center;
 .shoes .right{
     position: absolute;
   
-    right: 1rem;
+    right: 7rem;
     color: #fff;
     top: 10rem;
     padding: 1.5rem;
@@ -446,7 +447,7 @@ text-align: center;
 }
 .shoes .left{
     position: absolute;
-    left: 1rem;
+    left: 10rem;
     color: #fff;
     top: 10rem;
     padding: 1.5rem;
